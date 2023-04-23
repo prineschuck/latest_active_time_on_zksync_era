@@ -1,0 +1,2 @@
+# latest_active_time_on_zksync_era
+谷歌apps script脚本，通过爬虫获取钱包地址在zksync era上最近的一次交易时间
